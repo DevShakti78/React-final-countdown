@@ -7,12 +7,12 @@
   margin: auto;
   width: 70%;
   margin-top: 50px;
-  border: 1px solid red;
+  border: 1px solid blue;
 }
 .Cards div {
   /* border: 1px solid black; */
   margin: 5px;
 }
 .Cards h3 {
-  color:  crimson;
+  color:  rgb(30, 3, 92);
 }
